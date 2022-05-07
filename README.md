@@ -45,3 +45,4 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 🌎 **[Website](https://abcdecoder.github.io/portfolio.github.io/)**
 
 🌎 **[Gmail](mailto:gaurav.02116403220@ipu.ac.in)**
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=abcdeCoder &theme=radical)
