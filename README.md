@@ -45,4 +45,26 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 🌎 **[Website](https://abcdecoder.github.io/portfolio.github.io/)**
 
 🌎 **[Gmail](mailto:gaurav.02116403220@ipu.ac.in)**
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=abcdeCoder &theme=radical)
+
+<hr>
+<h3 align="center">Featured:</h3>
+<p align="center">
+  <a href="https://github.com/abcdeCoder/Pathfinding.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=Pathfinding.github.io &theme=tokyonight" />
+  </a>
+  <a href="https://github.com/abcdeCoder/sudokus-solver-visualizer.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=sudokus-solver-visualizer.github.io&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/abcdeCoder/Huffman-Encoding-File.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=Huffman-Encoding-File.github.io&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/abcdeCoder/SharpStudy.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=SharpStudy.github.io&theme=tokyonight" />
+  </a>
+</p>
+
+<h3 align="center">Github Stats:</h3>
+<h3 align="center">Github Stats</h3>
+<p align="center">
+<a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abcdeCoder&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
