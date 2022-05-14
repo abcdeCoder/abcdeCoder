@@ -72,3 +72,6 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
   <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=abcdeCoder&theme=nord" />
 </a>
 </p>
+  
+##Snake eating contribution graph
+![snake gif](https://github.com/abcdeCoder/abcdeCoder/blob/output/github-contribution-grid-snake.gif)
