@@ -58,8 +58,8 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
   <a href="https://github.com/abcdeCoder/Huffman-Encoding-File.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=Huffman-Encoding-File.github.io&theme=tokyonight" />
   </a>
-  <a href="https://github.com/abcdeCoder/SharpStudy.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=SharpStudy.github.io&theme=tokyonight" />
+  <a href="https://github.com/abcdeCoder/Sharp-Study.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=Sharp-Study.github.io&theme=tokyonight" />
   </a>
 </p>
 
